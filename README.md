@@ -1,31 +1,31 @@
-INSIGHT 1
+Insight 1
 
 Business class passengers have the highest satisfaction rate.
 
-RECOMMENDATION:
+Recommendation
 
-Improve economy class seating and services.
+Improve economy class services and passenger comfort.
 
-INSIGHT 2
+Insight 2
 
-Higher flight delays lead to lower satisfaction.
+Passengers with higher delays tend to have lower satisfaction.
 
-RECOMMENDATION:
+Recommendation
 
-Improve flight scheduling and reduce delays.
+Reduce flight delays and improve scheduling efficiency.
 
-INSIGHT 3
+Insight 3
 
-Inflight services (wifi, food, seat comfort) strongly affect satisfaction.
+Inflight services such as wifi, food, and seat comfort strongly affect passenger satisfaction.
 
-RECOMMENDATION:
+Recommendation
 
-Upgrade onboard services quality.
+Upgrade onboard service quality.
 
-INSIGHT 4
+Insight 4
 
-Loyal customers show higher satisfaction than disloyal ones.
+Loyal customers show higher satisfaction compared to disloyal customers.
 
-RECOMMENDATION:
+Recommendation
 
-Improve loyalty programs and perks.
+Improve loyalty programs and customer benefits.
